@@ -1,8 +1,9 @@
 let n = 25
+let d = n
 let m = 6
 let b = 0
 do {
-   let q = n-m
+    n -= m
     b++
 }while (n>m)
-console.log(`The answer of  dividing ${n} to ${m} equal to ${b} and the remainder = ${q}`)
+console.log(`The answer of  dividing ${d} to ${m} equal to ${b} and the remainder = ${n}`)
