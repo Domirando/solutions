@@ -1,0 +1,28 @@
+{
+  "name": "solutions_js",
+  "version": "0.0.1",
+  "description": "Solutions for 80 problems in javascript",
+  "main": "10 problems` solutions/1-solution.js",
+  "scripts": {
+    "start": "node 10 problems` solutions/1-solution.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maftuna1707/solutions.git"
+  },
+  "keywords": [
+    "solutions",
+    "for",
+    "80",
+    "problems",
+    "using",
+    "javascript"
+  ],
+  "author": "\"Maftuna Vohidjonovna <vohidjonovnamaftuna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maftuna1707/solutions/issues"
+  },
+  "homepage": "https://github.com/Maftuna1707/solutions#readme"
+}
