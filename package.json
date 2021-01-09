@@ -2,9 +2,9 @@
   "name": "solutions_js",
   "version": "0.0.1",
   "description": "Solutions for 80 problems in javascript",
-  "main": "10 problems` solutions/1-solution.js",
+  "main": "1-10 problems` solutions/index.js",
   "scripts": {
-    "start": "node 10 problems` solutions/1-solution.js",
+    "start": "node 10 problems` solutions/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
