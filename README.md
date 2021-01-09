@@ -1,3 +1,1 @@
-# Hi
-
-# vohidjonovnamaftuna@gmail.com
+# Hello!
