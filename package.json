@@ -4,7 +4,7 @@
   "description": "Solutions for 80 problems in javascript",
   "main": "1-10 problems` solutions/index.js",
   "scripts": {
-    "start": "node 10 problems` solutions/index.js",
+    "start": "node 10 problems` 10-20 problems` solutions/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
